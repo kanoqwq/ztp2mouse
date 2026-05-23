@@ -1,0 +1,6 @@
+id=zte_keypad_fix
+name=云电脑触控板修复
+version=1.0
+versionCode=1
+author=Minikano
+description=修复云电脑触控板（只有键盘切换到云电脑才能触发），映射为鼠标（单指点击，双指右键，双指滚动，三指拖动）
